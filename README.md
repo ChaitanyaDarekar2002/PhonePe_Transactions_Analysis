@@ -64,7 +64,6 @@ Provides an overall view of:
 <img width="1907" height="979" alt="Screenshot 2026-09-23 143151" src="https://github.com/user-attachments/assets/9a43539b-22fc-459e-98f6-1cddb82c70c3" />
 
 
-<br>
 
 ### 🛡️ 2. Insurance Dashboard
 
@@ -81,7 +80,6 @@ Analyzes:
 <img width="1907" height="981" alt="Screenshot 2026-09-23 143241" src="https://github.com/user-attachments/assets/1bebb837-ec5c-41da-b7cf-f2106469ac8c" />
 
 
-<br>
 
 ### 💰 3. Loans Dashboard
 
