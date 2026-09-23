@@ -78,7 +78,8 @@ Analyzes:
 
 **Dashboard Preview:**
 
-![Insurance Dashboard](images/insurance_dashboard.png)
+<img width="1907" height="981" alt="Screenshot 2026-09-23 143241" src="https://github.com/user-attachments/assets/1bebb837-ec5c-41da-b7cf-f2106469ac8c" />
+
 
 <br>
 
