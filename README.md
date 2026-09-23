@@ -61,7 +61,8 @@ Provides an overall view of:
 
 **Dashboard Preview:**
 
-![Home Dashboard](images/home_dashboard.png)
+<img width="1907" height="979" alt="Screenshot 2026-09-23 143151" src="https://github.com/user-attachments/assets/9a43539b-22fc-459e-98f6-1cddb82c70c3" />
+
 
 <br>
 
