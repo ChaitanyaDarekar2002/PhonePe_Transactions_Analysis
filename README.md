@@ -111,9 +111,8 @@ Analyzes:
 
 **Dashboard Preview:**
 
-![Money Transfer Dashboard](images/money_transfer_dashboard.png)
+<img width="1907" height="978" alt="Screenshot 2026-09-23 143358" src="https://github.com/user-attachments/assets/ae1de7f6-5f3f-4633-9109-d85c3fa6ee86" />
 
-<br>
 
 ### 📱 5. Recharge & Bills Dashboard
 
