@@ -94,9 +94,9 @@ Analyzes:
 
 **Dashboard Preview:**
 
-![Loans Dashboard](images/loans_dashboard.png)
+<img width="1907" height="980" alt="Screenshot 2026-09-23 143337" src="https://github.com/user-attachments/assets/76ab7502-cdde-49d7-adb4-c09794c08bb7" />
 
-<br>
+
 
 ### 💸 4. Money Transfer Dashboard
 
